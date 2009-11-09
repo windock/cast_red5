@@ -1,0 +1,14 @@
+Examples:
+
+Create a new Red5 project named 'beast' within package 'com.example.beast'
+  cast_red5 com.example.beast
+
+Create a new Red5 project named 'cow' within package 'cow'
+  cast_red5 cow
+
+
+Description:
+
+  Well, it is a pretty stupid generator, but it produces Red5 application
+  ready for building and deploying that just works. And with working logging.
+  Also, you don't need to spend hours on fixing your configuration files.
